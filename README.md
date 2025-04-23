@@ -49,7 +49,7 @@
 - 在命令行中导航到项目所在的目录，运行以下命令启动机器人：
 
     ```bash
-    python bot.py
+    python tgbot.py
     ```
 
 - 机器人启动后，会连接到 Telegram API 并开始接收和处理消息。
